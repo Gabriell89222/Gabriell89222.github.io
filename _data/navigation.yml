@@ -1,16 +1,16 @@
-- name: Pricing
+- name: Página Inicial
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
+- name: Instalação
   link: /blog/
   new_window: false
   highlight: false
-- name: About
+- name: Pessoal
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
+- name: Publicação
   link: /contact/
   new_window: false
   highlight: false
@@ -18,7 +18,3 @@
   link: /
   new_window: true
   highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
-  highlight: true
