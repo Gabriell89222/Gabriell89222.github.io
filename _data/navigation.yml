@@ -11,10 +11,10 @@
   new_window: false
   highlight: false
 - name: Publicação
-  link: /contact/
+  link: /blog/
   new_window: false
   highlight: false
 - name: Localização
   link: /
-  new_window: true
+  new_window: false
   highlight: false
