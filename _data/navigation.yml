@@ -1,5 +1,5 @@
 - name: Página Inicial
-  link: /pricing/
+  link: /
   new_window: false
   highlight: false
 - name: Instalação
@@ -14,7 +14,7 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
+- name: Localização
   link: /
   new_window: true
   highlight: false
