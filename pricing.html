@@ -1,97 +1,63 @@
 ---
-title: Pricing
-heading: Find the perfect plan for your business
-description: All plans include our award winning sales optimization solution to track your sales in real time.
-pricing_table:
-  - name: Basic
-    color: "#8e8e8e"
-    features:
-      - text: $25 per month
-        highlight: true
-      - text: Up to 5 users
-        highlight: false
-      - text: Basic lead scoring
-        highlight: false
-      - text: CRM
-        highlight: false
-      - text: Basic reporting
-        highlight: false
-      - text: Sales map
-        highlight: false
-    call_to_action:
-      link: http://mysite.com?plan=basic
-      text: Get started
-  - name: Pro
-    color: "#4a4a4a"
-    features:
-      - text: $99 per month
-        highlight: true
-      - text: Everything in Basic
-        highlight: false
-      - text: Up to 25 users
-        highlight: false
-      - text: Advanced lead scoring
-        highlight: false
-      - text: Pipeline management
-        highlight: false
-      - text: Advanced reporting
-        highlight: false
-    call_to_action:
-      link: http://mysite.com?plan=pro
-      text: Get started
-  - name: Professional
-    color: "#000000"
-    features:
-      - text: $299 per month
-        highlight: true
-      - text: Everything in Basic and Pro
-        highlight: false
-      - text: Up to 100 users
-        highlight: false
-      - text: Campaign builder
-        highlight: false
-      - text: Machine learning
-        highlight: false
-      - text: Calendar
-        highlight: false
-    call_to_action:
-      link: http://mysite.com?plan=professional
-      text: Get started
-faq:
-  - question: What types of payment do you accept?
-    answer: Credit cards including MasterCard, Visa or American Express.
-  - question: Can I change my plan at a later time?
-    answer: Yes, you can upgrade and downgrade your plan at anytime.
-  - question: Do you offer pricing for nonprofit organizations?
-    answer: Yes, send us a message and we'll set you up on our nonprofit pricing.
-  - question: Questions?
-    answer: Contact us for any further questions at <a href="#">john@business.com</a>.
+title: Publicações
+description:
 ---
-<div class="plans">
-	{% for plan in page.pricing_table %}
-		<ul class="plan">
-			<li style="background: {{ plan.color }}">
-				<h3>{{ plan.name }}</h3>
-			</li>
-			{% for feature in plan.features %}
-				<li {% if feature.highlight %} class="highlighted"{% endif %}>{{ feature.text }}</li>
-			{% endfor %}
+<section class="hero">
+	<div class="text-container">
+		<h1 class="editable">Seja Bem vindo ao <strong>Grupo de Redes Elétricas Inteligentes </strong> da UFC.</h1>
+	</div>
+</section>
 
-			{% if plan.call_to_action %}
-				<li class="pricing-cta"><div class="button"><a style="background: {{ plan.color }}" href="{{ plan.call_to_action.link }}">{{ plan.call_to_action.text }} &rarr;</a></div></li>
-			{% endif %}
-		</ul>
-	{% endfor %}
-</div>
-
-{% if page.faq %}
-	<h2>Pricing FAQ</h2>
-	<dl class="faq">
-		{% for item in page.faq %}
-			<div>
-				<dt>{{ item.question }}</dt>
-				<dd>{{ item.answer }}</dd>
+<div class="content">
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>Um pouco sobre nós:</h2>
+				<p>	O Grupo de Redes Elétricas Inteligentes (GREI) do Departamento de Engenharia Elétrica (DEE)
+					da Universidade Federal do Ceará (UFC) pesquisa e desenvolve soluções voltadas às redes
+					elétricas inteligentes, nas áreas de automação da distribuição, microrredes, medição inteligente,
+					geração distribuída, gestão de ativos, armazenamento de energia, resposta à demanda e mercado de
+					energia. O grupo é formado por professores pesquisadores e alunos de doutorado, mestrado e de
+					graduação, imbuídos na construção de saberes e do perfil profissional que incorpore habilidades,
+					atitudes e inovações que concorram ao desenvolvimento tecnológico, ao bem-estar social e à
+					sustentabilidade, pautados na ética e transparência.  
+					As Redes Elétricas Inteligentes e suas funções fornecem benefícios que são necessários
+					ao bem-estar das pessoas. Acreditamos que as redes elétricas podem fornecer energia elétrica
+					de forma mais sustentável e com qualidade, e oferecer serviços eficientes através da ação
+					orientada pela pesquisa e educação.  Nós estudamos as interações entre recursos energéticos
+					renováveis distribuídos e a rede elétrica através de pesquisa colaborativa para melhorar 
+					o gerenciamento das redes elétricas. Fomentamos o pensamento crítico sobre redes inteligentes 
+					com uma perspectiva de disseminar ideias de valor.
+				</p>
 			</div>
-		{% endfor %}
-	</dl>
-{% endif %}
+		</div>
+	</section>
+
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>How can I <strong>keep track</strong> of my sales team?</h2>
+				<p>Hydra learns your business. By analyzing your sales data, Hydra optimizes your sales process and show you where you should be spending your resources.</p>
+			</div>
+			<div class="image">
+				<img src="{{ site.baseurl }}/images/dashboard.png" alt="Screenshot" class="screenshot editable" />
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>How can I <strong>forecast</strong> the next 90 days?</h2>
+				<p>Hydra learns your business. By analyzing your sales data, Hydra optimizes your sales process and show you where you should be spending your resources.</p>
+			</div>
+			<div class="image">
+				<img src="{{ site.baseurl }}/images/dashboard.png" alt="Screenshot" class="screenshot editable" />
+			</div>
+		</div>
+	</section>
+				</blockquote>
+			</div>
+		</div>
+	</section>
+</div>
