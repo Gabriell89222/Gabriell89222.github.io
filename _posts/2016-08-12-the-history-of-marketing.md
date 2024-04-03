@@ -23,7 +23,7 @@ O ambiente da Casa de Comando possui os quadros de proteção e automação com 
 
 ![Foto-4](/images/foto-4.png)
 ![Foto-5](/images/foto-5.jpg)
-![Foto-6](/images/foto-6.jpg)
+![Foto-6](/images/foto-6.png)
 
 
 O presente projeto é fruto da parceria com CNPq, oriunda da chamada universal de 2023, intitulada Plataforma Multidomínio em Realidade Virtual aplicada ao processo de Ensino-Aprendizagem. Além disso, o presente projeto adquiriu, no CINASE 2023 – Edição Fortaleza, o prêmio de Melhor Projeto P&D e o prêmio O Setor Elétrico (OSE) de Melhor Projeto Geral.

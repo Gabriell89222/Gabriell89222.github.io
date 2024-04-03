@@ -1,7 +1,7 @@
 ---
 name: Daniel Jaguaribe
 position: Mestrando
-image_path: https://media.licdn.com/dms/image/D4E03AQECL64pIY3_gg/profile-displayphoto-shrink_800_800/0/1684950270067?e=1717632000&v=beta&t=NLlPMdA5ZnBMNFHJo4pxbEs9_JzRA8Sq38b-p0BFfwY
-twitter:
-blurb:
+image_path: /images/stafff/daniel.png
+linkedin: https://www.linkedin.com/in/daniel-jaguaribe-8aa0641a3/
+blurb: Mestrando no Grupo de Redes Elétricas Inteligentes
 ---
