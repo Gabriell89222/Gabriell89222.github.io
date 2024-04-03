@@ -8,12 +8,11 @@ author_staff_member: Daniel Jaguaribe
 A Virtual Reality Substation Laboratory (VRSL) é um software desenvolvido pelo Grupo de Redes Elétricas Inteligentes (GREI) para melhorar o processo de ensino-aprendizagem em cursos de Engenharia Elétrica no que tange ao conteúdo de subestações. 
 
 ![Man](https://source.unsplash.com/random/1500x1146)
-
+![Man](/images/foto-1.png)
 O software recria, de forma fiel, a subestação de distribuição de energia elétrica que alimenta o Campus Professor Prisco Bezerra da Universidade Federal do Ceará (UFC).
 
 O software possui dois ambientes para exploração discente, sendo eles o Pátio da Subestação e a Casa de Comando. No pátio é possível visualizar os equipamentos de uma subestação de distribuição, tais como Transformador de Corrente (TC), Transformador de Potencial (TP), transformadores de potência, chave seccionadora, religadores e estruturas de concreto, conforme ilustrado nas Figuras abaixo que comparam o real com o virtual.
 
-## Academic studies
 
 Além disso, no ambiente do pátio também há um drone no qual os alunos podem sobrevoar a subestação com a finalidade de visualizar os equipamentos por um ângulo melhor, conforme mostrado abaixo.
 
