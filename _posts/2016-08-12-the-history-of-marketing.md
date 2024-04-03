@@ -9,21 +9,19 @@ A Virtual Reality Substation Laboratory (VRSL) é um software desenvolvido pelo 
 
 ![Man](https://source.unsplash.com/random/1500x1146)
 
-The history of marketing is to a large extent a product of Internet's history as markets have adapted to keep abreast of changes and keep up with the way the major Search Engines rank web pages. Major changes include, in chronological order:
+O software recria, de forma fiel, a subestação de distribuição de energia elétrica que alimenta o Campus Professor Prisco Bezerra da Universidade Federal do Ceará (UFC).
 
-1991- Gopher: A network protocol, one of the very first query and search tools. Gopher was widely used for a couple of years, but usage has now fallen off, with barely 100 Gopher servers now indexed. 2. 1994- Launch of Yahoo, which was formerly known as "Jerry´s Guide to the World Wide Web" after one of its founders, Jerry Yang. Yahoo received in its first year over 1 million hits.
+O software possui dois ambientes para exploração discente, sendo eles o Pátio da Subestação e a Casa de Comando. No pátio é possível visualizar os equipamentos de uma subestação de distribuição, tais como Transformador de Corrente (TC), Transformador de Potencial (TP), transformadores de potência, chave seccionadora, religadores e estruturas de concreto, conforme ilustrado nas Figuras abaixo que comparam o real com o virtual.
 
 ## Academic studies
 
-The study of the history of marketing as an academic field emerged only recently. Controversies and disputes abound in the field. The publication in 1976 of the book The History of Marketing Thought, by Robert Bartels marks a turning-point in marketing thought. Since then, academics specializing in marketing decided to imitate economics, distinguishing theory and practice. Two different fields of study emerged:
+Além disso, no ambiente do pátio também há um drone no qual os alunos podem sobrevoar a subestação com a finalidade de visualizar os equipamentos por um ângulo melhor, conforme mostrado abaixo.
 
-the history of marketing thought, giving theoretical accounts
-marketing history, focusing on the history of marketing practice
-This division parallels the distinction between the history of economic thought and economic history.
+O ambiente da Casa de Comando possui os quadros de proteção e automação com seus respectivos equipamentos, como relés, computadores industriais e Switches. Neles, é possível interação para criar simulações completas de eventos de falta que ocorreram na subestação real, com supervisório, oscilógrafias e diagrama de atuação das proteções, conforme exibido na Figura abaixo.
 
 ![Thai](https://source.unsplash.com/random/1500x1147)
 
-Practitioners of the history of marketing thought note that both practitioners and academics know relatively little about the field.[citation needed] But history has significance for academics because it helps to define the baselines upon which they can recognize change and evolve marketing theory.On the other hand, proponents of marketing history argue that one cannot fully compare the marketing field with economics and hence suggest the impracticality of divorcing theory and practice. First, marketing scholars seldom engage in the practice of marketing as much as economists engage in the development and execution of public policies. Second, business people innovate in the marketing field, and the history of marketing will remain incomplete if one dissociates academia from practitioners.
+O presente projeto é fruto da parceria com CNPq, oriunda da chamada universal de 2023, intitulada Plataforma Multidomínio em Realidade Virtual aplicada ao processo de Ensino-Aprendizagem. Além disso, o presente projeto adquiriu, no CINASE 2023 – Edição Fortaleza, o prêmio de Melhor Projeto P&D e o prêmio O Setor Elétrico (OSE) de Melhor Projeto Geral.
 
 ![lavender flowers](https://source.unsplash.com/random/1500x1148)
 
