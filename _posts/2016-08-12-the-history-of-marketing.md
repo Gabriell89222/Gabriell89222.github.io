@@ -1,11 +1,11 @@
 ---
-date: 2020-08-12
-title: The history of marketing
+date: 2024-04-03
+title: Virtual Reality Substation Laboratory (VRSL) 
 categories:
-  - marketing
-author_staff_member: robin
+  - Virtual Reality
+author_staff_member: Daniel Jaguaribe
 ---
-The beginnings of digital marketing technology can be traced back to the 1980's, when computers became sophisticated enough to store huge volumes of customer information. For a brief moment, no one knew what would happen in digital marketing, but by the 90's it all became clear.
+A Virtual Reality Substation Laboratory (VRSL) é um software desenvolvido pelo Grupo de Redes Elétricas Inteligentes (GREI) para melhorar o processo de ensino-aprendizagem em cursos de Engenharia Elétrica no que tange ao conteúdo de subestações. 
 
 ![Man](https://source.unsplash.com/random/1500x1146)
 
