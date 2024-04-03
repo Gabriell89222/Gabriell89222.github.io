@@ -2,7 +2,7 @@
   link: /
   new_window: false
   highlight: false
-- name: Instalação
+- name: Projetos
   link: /blog/
   new_window: false
   highlight: false
@@ -11,10 +11,10 @@
   new_window: false
   highlight: false
 - name: Publicação
-  link: /blog/
+  link: /pricing/
   new_window: false
   highlight: false
-- name: Localização
+- name: Instalação
   link: /
   new_window: false
   highlight: false
