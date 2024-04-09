@@ -107,20 +107,22 @@ Além disso, seu desenvolvimento e aplicação gerou os seguintes trabalhos:
 
 ## Seção 5 – Pesquisadores envolvidos no projeto
 
-Daniel Jaguaribe [Lattes](http://lattes.cnpq.br/8807139438765241)
+Daniel Jaguaribe - [Lattes](http://lattes.cnpq.br/8807139438765241)
 
-[Dissertação de Mestrado]()
+Giovanni Barroso - [Lattes](http://lattes.cnpq.br/1218783106447217)
 
-[Dissertação de Mestrado]()
+Raimundo Sampaio - [Lattes](http://lattes.cnpq.br/9936530790182581)
 
-[Dissertação de Mestrado]()
+Antônio Melo Júnior - [Lattes]()
 
-[Dissertação de Mestrado]()
+Ruth Leão - [Lattes](http://lattes.cnpq.br/8551048513174462)
 
-[Dissertação de Mestrado]()
+Milena Teixiera - [Lattes](http://lattes.cnpq.br/3425826858113947)
 
-[Dissertação de Mestrado]()
+Gustavo Alves - [Lattes]()
 
-[Dissertação de Mestrado]()
+Rômulo Moura - [Lattes](https://lattes.cnpq.br/2440007243254830)
 
-[Dissertação de Mestrado]()
+Richarles - [Lattes]()
+
+Gabriel Araújo Pinheiro - [Lattes](http://lattes.cnpq.br/2361451480162580)
