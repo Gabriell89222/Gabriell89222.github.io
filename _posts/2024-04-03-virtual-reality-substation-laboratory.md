@@ -50,3 +50,47 @@ Importante salientar que os requisitos mínimos não oferecem a melhor solução
 •	Utilização do SSD mínimo 256 GB;
 
 Após a instalação apropriada do software, o usuário será levado para o ambiente da subestação e as instruções para utilização do software estão descrito abaixo:
+
+![Foto-7](/images/foto-7.png)
+
+•	Tecla W – Movimentação para frente;
+
+•	Tecla A – Movimentação para direita;
+
+•	Tecla S – Movimentação para trás
+
+•	Tecla D – Movimentação para esquerda
+
+•	Tecla Shift – Corre rápido
+
+•	Tecla Ctrl esquerdo - Agachar
+
+•	Tecla Ctrl direito – Ponta dos pés
+
+•	Tecla I – Movimentação pra frente no drone;
+
+•	Tecla K – Movimentação para trás no drone;
+
+•	Tecla J – Movimentação para direita no drone;
+
+•	Tecla L – Movimentação para esquerda no drone;
+
+•	Tecla O – Sair do drone
+
+•	Tecla T – Parar o drone no ar;
+
+•	Tecla E – Interagir com componentes, como portas, drones etc;
+
+•	Tecla M – Habilitar/Desabilitar minimapa;
+
+•	Tecla Barra de espaço – Pular;
+
+•	Tecla Esc – Opções do jogo.
+
+Dentro do VRSL o usuário tem liberdade para se movimentar e visualizar qualquer equipamento em qualquer ângulo. É recomendável que o usuário acesso o computador, na casa de comando, para utilizar todas as funcionalidades do software, como visualizar e interagir com o diagrama unifilar da subestação e visualizar simulações.
+
+## Seção 3 – Indicação de aula utilizando o VRSL?
+
+Para guiar o(a) professor(a) que tenha a intenção de utilizar o VRSL em sala de aula, foi criado um plano de aula para servir de modelo e de exemplo para replicação. A disciplina em questão chama-se Geração, Transmissão e Distribuição e tem o objetivo de introduzir, ao discente, os conteúdos da área de Sistemas Elétricos de Potência. Aconselha-se utilizar do plano de aula sugerido, que se encontra no drive com link abaixo, após as aulas teóricas de subestação com a finalidade de mostrar um ambiente em 3D do conteúdo abordado em sala de aula.
+
+[source](https://drive.google.com/drive/folders/1lVV72RhdRle1ANS-jaQ1a2MWumB7Khhl?usp=sharing): Link do Drive
