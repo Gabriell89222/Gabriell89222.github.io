@@ -92,22 +92,22 @@ Dentro do VRSL o usuário tem liberdade para se movimentar e visualizar qualquer
 
 Para guiar o(a) professor(a) que tenha a intenção de utilizar o VRSL em sala de aula, foi criado um plano de aula para servir de modelo e de exemplo para replicação. A disciplina em questão chama-se Geração, Transmissão e Distribuição e tem o objetivo de introduzir, ao discente, os conteúdos da área de Sistemas Elétricos de Potência. Aconselha-se utilizar do plano de aula sugerido, que se encontra no drive com link abaixo, após as aulas teóricas de subestação com a finalidade de mostrar um ambiente em 3D do conteúdo abordado em sala de aula.
 
-![Link do Drive](https://drive.google.com/drive/folders/1lVV72RhdRle1ANS-jaQ1a2MWumB7Khhl?usp=sharing)
+[Link do Drive](https://drive.google.com/drive/folders/1lVV72RhdRle1ANS-jaQ1a2MWumB7Khhl?usp=sharing)
 
 ## Seção 4 – Prémios e publicações envolvendo o VRSL.
 
 O presente projeto é fruto da parceria com CNPq, oriunda da chamada universal de 2023, intitulada “Plataforma Multidomínio em Realidade Virtual aplicada ao processo de Ensino-Aprendizagem.” Além disso, o presente projeto adquiriu, no CINASE 2023 – Edição Fortaleza, o prêmio de Melhor Projeto P&D e o prêmio O Setor Elétrico (OSE) de Melhor Projeto Geral.
 Além disso, seu desenvolvimento e aplicação gerou os seguintes trabalhos:
 
-![Trabalho de Conclusão de Curso](https://repositorio.ufc.br/handle/riufc/67639)
+[Trabalho de Conclusão de Curso](https://repositorio.ufc.br/handle/riufc/67639)
 
-![Dissertação de Mestrado]()
+[Dissertação de Mestrado]()
 
-![Artigo Científico no evento ERIAC XIX](https://www.xixeriac.com.br/artigos-apresentacoes)
+[Artigo Científico no evento ERIAC XIX](https://www.xixeriac.com.br/artigos-apresentacoes)
 
 ## Seção 5 – Pesquisadores envolvidos no projeto
 
-Daniel Jaguaribe ![Lattes](http://lattes.cnpq.br/8807139438765241)
+Daniel Jaguaribe [Lattes](http://lattes.cnpq.br/8807139438765241)
 
 [Dissertação de Mestrado]()
 
