@@ -36,7 +36,6 @@
 
 	h2 {
 		text-align: left;
-		font-size: 10px;
 	}
 
 	.blog-navigation {
@@ -88,6 +87,9 @@
 	.post-content {
 		.button {
 			margin: 30px 0 0 0;
+		}
+		h2{
+			font-size: 1px;
 		}
 	}
 }
