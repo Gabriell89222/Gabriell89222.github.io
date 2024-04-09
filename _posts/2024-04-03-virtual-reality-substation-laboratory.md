@@ -27,5 +27,16 @@ O ambiente da Casa de Comando possui os quadros de proteção e automação com 
 ![Foto-5](/images/foto-5.jpg)
 ![Foto-6](/images/foto-6.png)
 
+## Seção 2 – Seção 2 – Como usar o VRSL?
 
-O presente projeto é fruto da parceria com CNPq, oriunda da chamada universal de 2023, intitulada Plataforma Multidomínio em Realidade Virtual aplicada ao processo de Ensino-Aprendizagem. Além disso, o presente projeto adquiriu, no CINASE 2023 – Edição Fortaleza, o prêmio de Melhor Projeto P&D e o prêmio O Setor Elétrico (OSE) de Melhor Projeto Geral.
+Para apenas utilizar o software, na Seção 3 está disponibilizado um link com um arquivo .zip para o download dos arquivos necessários para executar o VRSL em qualquer computador. Após baixar os arquivos, é indicado a leitura do arquivo read_me.txt que contém as instruções para a instalação apropriada. Para executar o software, os requisitos mínimos são:
+•	Memória RAM 8 Gb DDR4;
+•	Placa de vídeo de 2GB;
+•	Processador i5 8ª Geração, cache de 12 MB, até 4.40 GHz;
+•	Utilização do SSD mínimo 256 GB.
+Importante salientar que os requisitos mínimos não oferecem a melhor solução para o ensino, haja vista que o software possui muitos equipamentos pesados. Portanto, os requisitos recomendados para a utilização fluida do software são:
+•	Memória RAM 16 Gb DDR4;
+•	Placa de vídeo de 4GB;
+•	AMD Ryzen 5000 Series 7 ou 13ª geração Intel® Core™ i5-13450HX (10-core, cache de 20MB, até 4.6GHz);
+•	Utilização do SSD mínimo 256 GB;
+Após a instalação apropriada do software, o usuário será levado para o ambiente da subestação e as instruções para utilização do software estão descrito abaixo:
