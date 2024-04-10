@@ -74,11 +74,13 @@ footer {
 	color: #fff;
 
 	.copyright {
+		color: #fff;
 		font-size: .8em;
 		margin: 0 auto;
 		
 		@media #{$tablet} {
 			text-align: center;
+		
 		}
 
 	}
