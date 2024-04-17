@@ -56,6 +56,22 @@ header {
 	background: #fff;
 	padding: 1px 0 0 0;
 	position: relative;
+
+	.table{
+		margin: 10px;
+		border-collapse: collapse;
+		width: 100%;
+
+		th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+		
+		th {
+            background-color: red;
+        }
+	}
 }
 
 .screenshot{
