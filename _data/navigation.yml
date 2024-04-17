@@ -1,8 +1,8 @@
-- name: Página Inicial
+- name: Quem somos
   link: /
   new_window: false
   highlight: false
-- name: Projetos
+- name: Softwares
   link: /blog/
   new_window: false
   highlight: false
@@ -10,7 +10,7 @@
   link: /about/
   new_window: false
   highlight: false
-- name: Publicação
+- name: Projetos
   link: /pricing/
   new_window: false
   highlight: false
