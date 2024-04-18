@@ -57,28 +57,27 @@ header {
 	padding: 1px 0 0 0;
 	position: relative;
 
-	table {
-		width: 80%;
-		margin: 50px auto;
-		border-collapse: collapse;
-		box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-	}
-	th, td {
-		padding: 12px 15px;
-		text-align: left;
-		border-bottom: 2px solid #ddd; /* borda inferior */
-		border-right: 2px solid #ddd; /* borda direita */
-	}
-	th {
-		background-color: #007024;
-		color: white;
-		border-top: 2px solid #ddd; /* borda superior */
-	}
-	tr:last-child td {
-		border-bottom: none; /* remover borda inferior da última linha */
-	}
 }
-
+table {
+	width: 80%;
+	margin: 50px auto;
+	border-collapse: collapse;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+th, td {
+	padding: 12px 15px;
+	text-align: left;
+	border-bottom: 2px solid #ddd; /* borda inferior */
+	border-right: 2px solid #ddd; /* borda direita */
+}
+th {
+	background-color: #007024;
+	color: white;
+	border-top: 2px solid #ddd; /* borda superior */
+}
+tr:last-child td {
+	border-bottom: none; /* remover borda inferior da última linha */
+}
 .screenshot{
 	max-width: 70%;
 	height: auto;
