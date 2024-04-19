@@ -1,5 +1,5 @@
 ---
-date: 2024-04-03
+date: 2024-04-18
 title: Virtual Reality Substation Laboratory (VRSL) 
 categories:
 ---
