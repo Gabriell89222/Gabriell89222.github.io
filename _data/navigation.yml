@@ -1,9 +1,5 @@
-- name: Quem somos
+- name: Somos
   link: /
-  new_window: false
-  highlight: false
-- name: Softwares
-  link: /blog/
   new_window: false
   highlight: false
 - name: Pessoal
@@ -14,7 +10,11 @@
   link: /pricing/
   new_window: false
   highlight: false
-- name: Instalação
+- name: Infraestrutura
+  link: /blog/
+  new_window: false
+  highlight: false
+- name: Notícias e Prêmios
   link: /contact/
   new_window: false
   highlight: false
