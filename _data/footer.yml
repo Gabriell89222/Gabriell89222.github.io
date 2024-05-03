@@ -1,9 +1,9 @@
 - links:
   - name: Somos
-    link: /index/
+    link: /
   - name: Pessoal
     link: /about/
-  - name: Projetosl
+  - name: Projetos
     link: /pricing/
   - name: Infraestrutura
     link: /blog/
