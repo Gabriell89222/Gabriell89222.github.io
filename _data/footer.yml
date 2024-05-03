@@ -1,11 +1,13 @@
 - links:
-  - name: Softwares
-    link: /blog/
+  - name: Somos
+    link: /index/
   - name: Pessoal
     link: /about/
-  - name: Projetos
+  - name: Projetosl
     link: /pricing/
-  - name: Instalação
+  - name: Infraestrutura
+    link: /blog/
+  - name: Notícias e Prêmios
     link: /contact/
 
 - links:
