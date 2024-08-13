@@ -1,7 +1,7 @@
 ---
-name: Lucas Mesquita
+name: Gabriel Araújo
 position: Graduando
-image_path: /images/stafff/MSQ.png
-link: https://www.linkedin.com/in/lucas-mesquita-santiago-06095b2aa/
+image_path: /images/stafff/GAP.png
+link: https://gabrielpinheiro12.github.io/
 blurb:
 ---
