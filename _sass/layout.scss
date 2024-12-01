@@ -53,9 +53,37 @@ header {
 }
 
 .content {
-	background: #4400ff;
+	background: #af94ce;
 	padding: 1px 0 0 0;
 	position: relative;
+	.snowflake {
+		position: absolute;
+		color: white;
+		font-size: 1em;
+		font-family: Arial;
+		text-shadow: 0 0 1px #ccc;
+		animation: fall 2s infinite linear;
+	  }
+	  
+	  @keyframes fall {
+		0% {
+		  top: 0;
+		  left: 50%;
+		}
+		100% {
+		  top: 100%;
+		  left: calc(50% - 5px);
+		  opacity: 0;
+		}
+	  }
+	  
+	  /* Criar muitos flocos de neve */
+	  @for $i from 1 through 100 {
+		.snowflake:nth-child(#{$i}) {
+		  left: random(100%);
+		  animation-delay: random(3s);
+		}
+	  }
 
 }
 
