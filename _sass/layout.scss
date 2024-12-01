@@ -97,7 +97,7 @@ header {
 
 section {
 	padding: 1px 0;
-	
+	background-color: white;
 	table {
 		width: 80%;
 		margin: 50px auto;
@@ -143,6 +143,7 @@ blockquote {
 	margin: 0;
 	quotes: "\201C""\201D""\2018""\2019";
 	font-style: italic;
+	background-color: white;
 
 	.author {
 		display: block;
