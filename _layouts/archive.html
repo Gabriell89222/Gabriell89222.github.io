@@ -1,24 +1,23 @@
 ---
-layout: default
+layout: page
 ---
 
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
-{% endif %}
+<div class="text-container">
+	{% assign blog = site.pages | where: "path", "blog/index.html" | first %}
 
-{% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
-{% endif %}
+	{% if blog.title %}
+		<h2>{{ blog.title }}</h2>
+	{% endif %}
 
-<div id="main" role="main">
-  {% include sidebar.html %}
+	{% if blog.description %}
+		<p class="subtext">{{ blog.description }}</p>
+	{% endif %}
 
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
-    {% endunless %}
-    {{ content }}
-  </div>
+	<div class="center-text">
+		<span class="blog-filter cross"><a href="{{ site.baseurl }}/blog/">{{ page.title | capitalize }}</a></span>
+	</div>
+
+	<ul class="blog-posts">
+		{% include list-posts.html posts=page.posts %}
+	</ul>
 </div>
