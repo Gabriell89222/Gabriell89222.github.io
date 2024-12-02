@@ -106,13 +106,14 @@ section {
 	}
 	th, td {
 		padding: 3% 0.1%;
+		color: white;
 		text-align: left;
 		border-bottom: 2px solid #ddd; /* borda inferior */
 		border-right: 2px solid #ddd; /* borda direita */
 	}
 	th {
 		background-color: #00250c;
-		color: white;
+		color: goldenrod;
 		border-top: 2px solid #ddd; /* borda superior */
 	}
 	tr:last-child td {
