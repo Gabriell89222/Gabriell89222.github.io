@@ -117,6 +117,7 @@ section {
 		background-color: #00250c;
 		color: goldenrod;
 		border-top: 2px solid #ddd; /* borda superior */
+		border-bottom: 2px solid #ddd; /* borda inferior */
 	}
 	tr:last-child td {
 		border-bottom: none; /* remover borda inferior da última linha */
