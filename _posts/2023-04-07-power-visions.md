@@ -7,7 +7,7 @@ categories: Ambiente-Virtual
 O presente projeto, intitulado Power Visuals, tem como objetivo principal o desenvolvimento de animações matemáticas voltadas ao ensino da disciplina de circuitos elétricos em corrente alternada. A proposta busca tornar o processo de aprendizagem mais dinâmico, acessível e intuitivo, especialmente para estudantes que enfrentam dificuldades na visualização de fenômenos abstratos relacionados à análise de circuitos em regime senoidal.
 
 
-## Seção 1 – Qual é  a principal função do Power Visions?
+## Seção 1 – Qual é  a principal função do Power Visuals?
 
 
 ![Foto-1](/images/loc/POWERVISION1.png)
@@ -17,7 +17,7 @@ Para a criação dos vídeos animados, será utilizada a biblioteca Manim (Mathe
 Espera-se que os recursos produzidos contribuam significativamente para o aprendizado dos alunos, promovendo uma abordagem complementar às aulas teóricas tradicionais, e incentivando o uso de tecnologias educacionais no contexto do ensino de engenharia.
 
 
-## Seção 2 – Qual é o principal objetivo do Power Visions?
+## Seção 2 – Qual é o principal objetivo do Power Visuals?
 
 A proposta do desenvolvimento das animações consiste em oferecer vídeos com caráter didático e intuitivo, que facilitem a compreensão dos conteúdos abordados sem, contudo, se afastarem dos fundamentos teóricos ensinados em sala de aula. Além de promoverem o aprendizado de forma mais acessível, os vídeos também deverão apresentar uma estética visual agradável e atrativa, de modo a captar a atenção dos estudantes e estimular o interesse pela disciplina.
 
@@ -42,6 +42,7 @@ A equipe do projeto agradece à Universidade Federal do Ceará (UFC) pelo apoio 
 ## Seção 5 – Referências
 Site da comunidade:
 [www.manim.community](https://www.manim.community)
+
 Livro base para o conteúdo dos vídeos:
 NILSSON, James W.; RIEDEL, Susan A. Circuitos Elétricos. 8. ed. Rio de Janeiro: LTC Editora, 2003.
 
