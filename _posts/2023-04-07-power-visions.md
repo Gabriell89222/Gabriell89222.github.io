@@ -1,6 +1,6 @@
 ---
 date: 2025-04-07
-title: Power Visions
+title: Power Visuals
 categories: Ambiente-Virtual
 ---
 
