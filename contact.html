@@ -1,16 +1,26 @@
 ---
 title: Premiações
-description: 
+description:
 ---
 
 <div class="text-container">
-  <ul class="blog-posts">
-    {% for post in site.posts %}
-      <li>
-        <h2>{{ post.title }}</h2>
-        <p>{{ post.date | date: "%d/%m/%Y" }}</p>
-        <div>{{ post.content }}</div>
-      </li>
-    {% endfor %}
-  </ul>
+	<p class="editor-link"><a href="cloudcannon:collections/_news" class="btn"><strong>&#9998;</strong> Add Post</a></p>
+	<ul class="blog-posts">
+		{% include list-posts.html posts=paginator.posts %}
+	</ul>
+
+	{% if paginator.total_pages > 1 %}
+		<!-- Pagination links -->
+		<div class="pagination">
+			{% if paginator.previous_page %}
+				<a href="{% include relative-src.html src=paginator.previous_page_path %}" class="previous btn">&larr; Newer posts</a>
+			{% endif %}
+
+			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+			{% if paginator.next_page %}
+				<a href="{% include relative-src.html src=paginator.next_page_path %}" class="next btn">Older posts &rarr;</a>
+			{% endif %}
+		</div>
+	{% endif %}
 </div>
