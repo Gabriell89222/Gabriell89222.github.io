@@ -6,7 +6,7 @@ description:
 <div class="text-container">
 	<p class="editor-link"><a href="cloudcannon:collections/_news" class="btn"><strong>&#9998;</strong> Add Post</a></p>
 	<ul class="blog-posts">
-		{% include list-posts.html posts=paginator.posts %}
+		{% include list-posts.html posts=paginator.news %}
 	</ul>
 
 	{% if paginator.total_pages > 1 %}
