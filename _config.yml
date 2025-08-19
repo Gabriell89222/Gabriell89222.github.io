@@ -29,14 +29,19 @@ collections:
   staff_members:
     _hide_content: true
 
-collections:
-  news:
-    output: true
-    permalink: /news/:path/
-
 paginate: 10
 paginate_path: "/blog/:num/"
 permalink: pretty
+
+collections:
+  news:
+    output: true
+    permalink: /noticias/:path/
+
+paginate:
+  collection: news
+  per_page: 5
+  permalink: /noticias/page:num/
 
 defaults:
   - scope:
