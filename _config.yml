@@ -29,6 +29,11 @@ collections:
   staff_members:
     _hide_content: true
 
+collections:
+  news:
+    output: true
+    permalink: /news/:path/
+
 paginate: 10
 paginate_path: "/blog/:num/"
 permalink: pretty
