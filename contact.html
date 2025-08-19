@@ -3,8 +3,87 @@ title: Premiações
 description:
 ---
 
+<style>
+/* Estilos para página de premiações */
+.blog-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.blog-posts {
+  margin-top: 40px;
+}
+
+.blog-post {
+  background: white;
+  border-radius: 8px;
+  padding: 30px;
+  margin-bottom: 40px;
+  box-shadow: 0 3px 15px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.blog-post:hover {
+  transform: translateY(-5px);
+}
+
+.post-meta {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  color: #7f8c8d;
+  font-size: 0.9em;
+}
+
+.post-meta time {
+  margin-right: 20px;
+}
+
+.post-category {
+  background: #3498db;
+  color: white;
+  padding: 3px 10px;
+  border-radius: 4px;
+  font-size: 0.8em;
+}
+
+.blog-post h2 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-size: 1.8em;
+}
+
+.blog-post h2 a {
+  color: #2c3e50;
+  text-decoration: none;
+}
+
+.blog-post h2 a:hover {
+  color: #3498db;
+  text-decoration: underline;
+}
+
+.post-excerpt {
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.read-more {
+  display: inline-block;
+  color: #3498db;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
+</style>
+
 <div class="blog-container">
-  <h1>Artigos Recentes</h1>
+  <h1>Premiações</h1>
   
   <div class="blog-posts">
     {% for item in site.news %}
@@ -24,7 +103,7 @@ description:
         {{ item.excerpt | truncatewords: 35 }}
       </div>
       
-      <a href="{{ item.url }}" class="read-more">Continuar lendo →</a>
+      <a href="{{ item.url }}" class="read-more">Ver detalhes →</a>
     </article>
     {% endfor %}
   </div>
