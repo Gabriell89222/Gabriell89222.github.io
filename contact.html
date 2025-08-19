@@ -1,27 +1,31 @@
 ---
-title: Notícias  <!-- Alteração cosmética -->
+title: Premiações
 description:
-permalink: /noticias/  <!-- Recomendado para URL amigável -->
 ---
 
-<div class="text-container">
-	<p class="editor-link"><a href="cloudcannon:collections/_news" class="btn"><strong>&#9998;</strong> Adicionar Notícia</a></p>
-	
-	<ul class="blog-posts">
-		{% include list-posts.html posts=paginator.news %}
-	</ul>
-
-	{% if paginator.total_pages > 1 %}
-		<div class="pagination">
-			{% if paginator.previous_page %}
-				<a href="{% include relative-src.html src=paginator.previous_page_path %}" class="previous btn">&larr; Notícias recentes</a>
-			{% endif %}
-
-			<span class="page_number">{{ paginator.page }} de {{ paginator.total_pages }}</span>
-
-			{% if paginator.next_page %}
-				<a href="{% include relative-src.html src=paginator.next_page_path %}" class="next btn">Notícias antigas &rarr;</a>
-			{% endif %}
-		</div>
-	{% endif %}
+<div class="blog-container">
+  <h1>Artigos Recentes</h1>
+  
+  <div class="blog-posts">
+    {% for item in site.news %}
+    <article class="blog-post">
+      <div class="post-meta">
+        <time datetime="{{ item.date | date: '%Y-%m-%d' }}">
+          {{ item.date | date: "%d/%m/%Y" }}
+        </time>
+        {% if item.category %}
+        <span class="post-category">{{ item.category }}</span>
+        {% endif %}
+      </div>
+      
+      <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+      
+      <div class="post-excerpt">
+        {{ item.excerpt | truncatewords: 35 }}
+      </div>
+      
+      <a href="{{ item.url }}" class="read-more">Continuar lendo →</a>
+    </article>
+    {% endfor %}
+  </div>
 </div>

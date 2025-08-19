@@ -36,12 +36,7 @@ permalink: pretty
 collections:
   news:
     output: true
-    permalink: /noticias/:path/
-
-paginate:
-  collection: news
-  per_page: 5
-  permalink: /noticias/page:num/
+    permalink: /news/:path/
 
 defaults:
   - scope:
