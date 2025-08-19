@@ -7,20 +7,24 @@ description:
   <h1>Artigos Recentes</h1>
   
   <div class="blog-posts">
-    {% for post in site.posts %}
+    {% for item in site.news %}
     <article class="blog-post">
       <div class="post-meta">
-        <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%d/%m/%Y" }}</time>
-        <span class="post-category">{{ post.category }}</span>
+        <time datetime="{{ item.date | date: '%Y-%m-%d' }}">
+          {{ item.date | date: "%d/%m/%Y" }}
+        </time>
+        {% if item.category %}
+        <span class="post-category">{{ item.category }}</span>
+        {% endif %}
       </div>
       
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
       
       <div class="post-excerpt">
-        {{ post.excerpt | truncatewords: 35 }}
+        {{ item.excerpt | truncatewords: 35 }}
       </div>
       
-      <a href="{{ post.url }}" class="read-more">Continuar lendo →</a>
+      <a href="{{ item.url }}" class="read-more">Continuar lendo →</a>
     </article>
     {% endfor %}
   </div>
