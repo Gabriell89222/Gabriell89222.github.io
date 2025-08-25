@@ -53,6 +53,14 @@ defaults:
           width: 1500
           height: 2500
   - scope:
+      path: "_news"      # Aplica aos arquivos em _news
+    values:
+      layout: "post"     # ou outro layout
+      _options:
+        content:
+          width: 1500
+          height: 2500
+  - scope:
       path: ""
       type: "staff_members"
     values:
