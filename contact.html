@@ -41,7 +41,7 @@ description:
 }
 
 .post-category {
-  background: #3498db;
+  background: #007024;
   color: white;
   padding: 3px 10px;
   border-radius: 4px;
@@ -60,7 +60,7 @@ description:
 }
 
 .blog-post h2 a:hover {
-  color: #3498db;
+  color: #007024;
   text-decoration: underline;
 }
 
@@ -72,7 +72,7 @@ description:
 
 .read-more {
   display: inline-block;
-  color: #3498db;
+  color: #007024;
   font-weight: 600;
   text-decoration: none;
 }
@@ -113,7 +113,7 @@ description:
           {{ item.excerpt | default: item.content | strip_html | truncatewords: 35 }}
         </div>
         
-        <a href="{{ item.url }}" class="read-more">Ver detalhes →</a>
+        <a href="{{ item.url }}" class="read-more">Saiba Mais →</a>
       </article>
       {% endfor %}
     {% else %}
