@@ -1,7 +1,7 @@
 ---
 date: 2023-09-13
 title: Projeto de Subestação em Realidade Virtual do GREI é Duplamente Premiado no CINASE 2023
-categories: 
+categories: Eventos
 ---
 
 Pesquisa desenvolvida pelo mestrando Daniel Jaguaribe foi reconhecida nas categorias Geral e Pesquisa e Desenvolvimento no principal evento do setor elétrico nacional.

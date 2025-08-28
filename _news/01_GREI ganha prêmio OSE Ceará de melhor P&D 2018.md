@@ -1,7 +1,7 @@
 ---
 date: 2018-05-12
 title: GREI ganha prêmio OSE Ceará de melhor P&D 2018
-categories:
+categories: Eventos
 ---
 
 Na noite da última terça-feira (08 de maio) aconteceu no centro de eventos do Ceará a entrega do Prêmio O Setor Elétrico de Qualidade das Instalações Elétricas (OSE 2018) promovido pela revista O Setor Elétrico e que tem como objetivo divulgar e homenagear boas práticas de projetos que promovam soluções cada vez mais sustentáveis e eficientes para as intalações brasileiras.

@@ -1,7 +1,7 @@
 ---
 date: 2025-04-07
 title: GREI no Intersolar Summit Brasil
-categories: 
+categories: Eventos
 ---
 
 O Intersolar Summit é uma série de conferências e eventos especializados focados no setor de energia solar fotovoltaica, armazenamento de energia e soluções relacionadas, organizados em diferentes regiões do mundo. Esses eventos são destinados a promover a troca de conhecimentos, discutir inovações tecnológicas, explorar oportunidades de negócios e abordar desafios regulatórios e mercadológicos do setor de energia renovável. 
