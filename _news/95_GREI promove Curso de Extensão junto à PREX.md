@@ -1,5 +1,5 @@
 ---
-date: 2025-04-27
+date: 2025-08-27
 title: GREI promove Curso de Extensão junto à PREX
 categories: Minicurso
 ---
@@ -23,3 +23,4 @@ Reconhecendo a diversidade de necessidades dos participantes, o curso oferece fl
 - 12 horas opcionais de atividades práticas e hands-on em nossos laboratórios virtuais, permitindo que cada um aprofunde seus conhecimentos de acordo com seu interesse e disponibilidade no momento da matrícula.
 Ao final de cada minicurso concluído dentro do programa, os participantes recebem um certificado de conclusão com validade nacional, emitido oficialmente pela PREX.
 
+Escrito por: Amanda Carvalho

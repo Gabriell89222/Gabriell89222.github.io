@@ -38,3 +38,5 @@ Transformador 1:1 (380V:380V/220V) delta-estrela (Dyn1) de 35kVA para isolar mic
 Também nos dias que se seguiram, 09 e 10 de maio, ocorreu o evento Circuito Nacional do Setor Elétrico (CINASE) em sua 30ª edição, pela segunda vez na cidade de Fortaleza-Ce. O evento apresentou uma série de palestras técnicas relacionadas aos setor elétrico com temas tais como: geração, transmissão e distribuição de energia elétrica, geração distribuída, equipamentos de medição e testes, automação, equipamentos elétricos, painéis de alta-tensão e subestações, entre outros. O CINASE também contou com uma exposição com estandes de fabricantes e fornecedores de equipamentos elétricos com grande representatividade no país. Foi momento de troca de experiências e de aproximação entre fornecedores, fabricantes e engenheiros em que os integrantes do GREI também se fizeram presentes.
 
 ![Foto-3](/images/od3.png)
+
+Escrito por: Lucas Silveira Melo.
