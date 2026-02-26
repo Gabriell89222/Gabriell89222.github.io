@@ -21,13 +21,13 @@
 }
 
 header {
-	color: #fff;
+	color: #F4FFEB;
 	padding: 20px 0px 5px;
 	background: $brand-color; /* Old browsers */
 	background: linear-gradient(to bottom, $brand-color 0%, $middle-gradient-color 100%) no-repeat $brand-color;
 
 	a {
-		color: #fff;
+		color: #F4FFEB;
 		text-decoration: none;
 		z-index: 1;
 		position: relative;
@@ -53,7 +53,7 @@ header {
 }
 
 .content {
-	background: #fff;
+	background: #F4FFEB;
 	padding: 1px 0 0 0;
 	position: relative;
 
@@ -108,13 +108,13 @@ section {
 	th, td {
 		padding: 3% 0.1%;
 		text-align: left;
-		border-bottom: 2px solid #ddd; /* borda inferior */
-		border-right: 2px solid #ddd; /* borda direita */
+		border-bottom: 2px solid #F4FFEB; /* borda inferior */
+		border-right: 2px solid #F4FFEB; /* borda direita */
 	}
 	th {
-		background-color: #007024;
-		color: white;
-		border-top: 2px solid #ddd; /* borda superior */
+		background-color: #2F5D4B;
+		color: #F4FFEB;
+		border-top: 2px solid #F4FFEB; /* borda superior */
 	}
 	tr:last-child td {
 		border-bottom: none; /* remover borda inferior da última linha */

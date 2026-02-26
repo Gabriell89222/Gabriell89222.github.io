@@ -3,7 +3,7 @@
   new_window: false
   highlight: false
 - name: Pessoal
-  link: /pessoal/
+  link: /about/
   new_window: false
   highlight: false
 - name: Projetos
